@@ -1,5 +1,10 @@
 # 💱 Currency Converter Web App
 
+![HTML](https://img.shields.io/badge/HTML-5-orange)
+![CSS](https://img.shields.io/badge/css-3-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
+[![Live Demo](https://imag.shields.io/badge/Live-Demo-green)](https://anshi-g.github.io/Currency-Converter/)
+
 A simple and modern currency converter built using **HTML, CSS, and JavaScript**.
 
 ## 🚀 Features
@@ -24,9 +29,6 @@ A simple and modern currency converter built using **HTML, CSS, and JavaScript**
 
 1. Download the project
 2. Open `index.html` in browser
-
-## 🌐 Live Demo
-👉[Click here to use the app](https://anshi-g.github.io/Currency-Converter/)
 
 ## 🙋‍♀️ Author
 
