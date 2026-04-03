@@ -18,7 +18,7 @@ A simple and modern currency converter built using **HTML, CSS, and JavaScript**
 
 ## 📸 Preview
 
-(Add screenshot here later)
+![App Screenshot](image.png)
 
 ## ⚡ How to Run
 
@@ -26,8 +26,8 @@ A simple and modern currency converter built using **HTML, CSS, and JavaScript**
 2. Open `index.html` in browser
 
 ## 🌐 Live Demo
-
+👉[Click here to use the app](https://anshi-g.github.io/Currency-Converter/)
 
 ## 🙋‍♀️ Author
 
-Anshima Gupta
+Anshima Gupta (Anshi-G)
